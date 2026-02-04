@@ -1,0 +1,39 @@
+<body>
+  <section class="hero">
+    <h1>Hey, I'm Ryuu</h1>
+    <p class="sub">Gamer • Creator • Tech Lover</p>
+    <a href="#social" class="btn">Connect With Me</a>
+  </section>
+
+  <section class="about" id="about">
+    <h2>About Me</h2>
+    <p>
+      I'm Ryuu — gamer, creator, and always exploring tech.  
+      I make content, stream, and build fun stuff online.  
+      Welcome to my little zone 💙
+    </p>
+  </section>
+
+  <section class="social-section" id="social">
+    <h2>My Socials</h2>
+    <div class="social-links">
+
+      <a href="https://youtube.com/@senpairyuulive" target="_blank" class="social-card youtube">
+        <span>YouTube</span>
+      </a>
+
+      <a href="https://discord.gg/mqQPqmhGMz" target="_blank" class="social-card discord">
+        <span>Discord</span>
+      </a>
+
+      <a href="https://instagram.com/senpairyuulive" target="_blank" class="social-card instagram">
+        <span>Instagram</span>
+      </a>
+
+    </div>
+  </section>
+
+  <footer class="footer">
+    <p>Made with ❤️ by Ryuu</p>
+  </footer>
+</body>
